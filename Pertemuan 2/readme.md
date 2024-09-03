@@ -3,6 +3,7 @@ Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut
 <img src = "soal 1.png">
 
 Jawab :
+
     <img src = "input_soal 1.png">
     <img src = "output_soal 1.png">
 
