@@ -4,7 +4,9 @@ Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut
 
 Jawab :
 
+Input
     <img src = "input_soal 1.png">
+Output
     <img src = "output_soal 1.png">
 
 Soal 2
