@@ -12,7 +12,7 @@
 
 **Screenshot:**
 
-![Praktikum 1](Laporan/praktikum1_1.png)
+![Praktikum 1](images/praktikum1_1.png)
 ![Praktikum 1](Laporan/praktikum1_2.png)
 ![Praktikum 1](Laporan/praktikum1_3.png)
 
