@@ -13,8 +13,8 @@
 **Screenshot:**
 
 ![Praktikum 1](images/praktikum1_1.png)
-![Praktikum 1](Laporan/praktikum1_2.png)
-![Praktikum 1](Laporan/praktikum1_3.png)
+![Praktikum 1](images/praktikum1_2.png)
+![Praktikum 1](images/praktikum1_3.png)
 
 ---
 
@@ -31,12 +31,12 @@
 
 **Screenshot:**
 
-![Praktikum 3](Laporan/praktikum3_1.png)
-![Praktikum 3](Laporan/praktikum3_2.png)
-![Praktikum 3](Laporan/praktikum3_3.png)
-![Praktikum 3](Laporan/praktikum3_4.png)
-![Praktikum 3](Laporan/praktikum3_5.png)
-![Praktikum 3](Laporan/praktikum3_6.png)
+![Praktikum 3](images/praktikum3_1.png)
+![Praktikum 3](images/praktikum3_2.png)
+![Praktikum 3](images/praktikum3_3.png)
+![Praktikum 3](images/praktikum3_4.png)
+![Praktikum 3](images/praktikum3_5.png)
+![Praktikum 3](images/praktikum3_6.png)
 
 ---
 
@@ -47,7 +47,7 @@
 
     **Screenshot:**
 
-    ![Praktikum 4 - Text Widget](Laporan/praktikum4_text.png)
+    ![Praktikum 4 - Text Widget](images/praktikum4_1.png)
 
 - **Langkah 2: Image Widget**
     - Membuat file `image_widget.dart` untuk menampilkan gambar `logo_polinema.jpg`.
@@ -55,7 +55,7 @@
 
     **Screenshot:**
 
-    ![Praktikum 4 - Image Widget](Laporan/praktikum4_image.png)
+    ![Praktikum 4 - Image Widget](images/praktikum4_2.png)
 
 ---
 
@@ -65,42 +65,45 @@
 
     **Screenshot:**
 
-    ![Praktikum 5 - Cupertino Button](Laporan/praktikum5_cupertino.png)
+    ![Praktikum 5 - Cupertino Button](images/praktikum5_1.png)
 
 - **Langkah 2: Floating Action Button (FAB)**
     - Membuat file `fab_widget.dart` untuk menampilkan `FloatingActionButton` dengan ikon `thumb_up`.
 
     **Screenshot:**
 
-    ![Praktikum 5 - Floating Action Button](Laporan/praktikum5_fab.png)
+    ![Praktikum 5 - Floating Action Button](images/praktikum5_2.png)
 
 - **Langkah 3: Scaffold Widget**
     - Mengatur tata letak menggunakan widget `Scaffold` dan menambahkan floating action button serta bottom navigation bar.
 
     **Screenshot:**
 
-    ![Praktikum 5 - Scaffold Widget](Laporan/praktikum5_scaffold.png)
+    ![Praktikum 5 - Scaffold Widget](images/praktikum5_3.png)
 
 - **Langkah 4: Dialog Widget**
     - Membuat dialog menggunakan `AlertDialog` dengan tombol `OK` untuk menutup dialog.
 
     **Screenshot:**
 
-    ![Praktikum 5 - Dialog Widget](Laporan/praktikum5_dialog.png)
+    ![Praktikum 5 - Dialog Widget](images/praktikum5_4.png)
+    ![Praktikum 5 - Dialog Widget](images/praktikum5_5.png)
 
 - **Langkah 5: Input dan Selection Widget (TextField)**
     - Menambahkan `TextField` untuk menerima input dari pengguna.
 
     **Screenshot:**
 
-    ![Praktikum 5 - TextField](Laporan/praktikum5_textfield.png)
+    ![Praktikum 5 - TextField](images/praktikum5_6.png)
+    ![Praktikum 5 - TextField](images/praktikum5_7.png)
 
 - **Langkah 6: Date and Time Pickers**
     - Menambahkan widget `DatePicker` untuk memilih tanggal dan waktu.
 
     **Screenshot:**
 
-    ![Praktikum 5 - Date Picker](Laporan/praktikum5_datepicker.png)
+    ![Praktikum 5 - Date Picker](images/praktikum5_8.png)
+    ![Praktikum 5 - Date Picker](images/praktikum5_9.png)
 
 ---
 
@@ -108,4 +111,4 @@
 (Semua screenshot dari tiap langkah)
 
 ## Repository GitHub
-Link repository: [Link ke repository GitHub Anda]
+Link repository: [(https://github.com/faiqoh04/Pemrograman-Mobile/tree/main/Pertemuan%205/hello_word)]
